@@ -1,2 +1,6 @@
 ASR/iic/*
 *.wav
+*.tar
+*.zip
+TTS/CosyVoice/pretrained_models/CosyVoice2-0.5B/*
+*.pth
